@@ -28,5 +28,5 @@ td{
 .imagem{
     margin: 5px 10px;
     border-radius: 5px;
-    filter: drop-shadow(15px 5px 0.75rem rgb(218, 212, 213));
+    filter: drop-shadow(5px 5px 0.75rem #9c9b9b);
 }
