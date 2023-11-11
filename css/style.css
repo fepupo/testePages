@@ -17,6 +17,11 @@ table, tr, td{
     border: 2px solid black;
     border-radius: 8px;
 }
+table{
+    background-color: #fff;
+}
 td{
     padding: 5px;
+    text-align: center;
+    justify-content: center;
 }
